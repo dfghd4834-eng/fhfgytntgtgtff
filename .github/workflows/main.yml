@@ -1,5 +1,5 @@
-name: Build Smooth Player APK
-
+name:       - name: Install Android SDK
+        uses: android-actions/setup-android@v3
 on:
   workflow_dispatch:
   push:
